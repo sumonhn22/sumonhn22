@@ -1,18 +1,13 @@
 ### Hi there 👋
  I'm Md Sumon Hossain from Netherlands. As a mathematician, I love to learn new tech so that I can help other people.
  
- [![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/md-sumon-hossain-197152ba/)
- 
- 
  ## ⚡ Technologies
 
 <!--- just --->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
 ![React](https://img.shields.io/badge/-React-00599C?style=flat-square&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -29,10 +24,8 @@
 <img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="Cplusplus" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
