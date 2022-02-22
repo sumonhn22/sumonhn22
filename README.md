@@ -16,6 +16,7 @@
 
 [![sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonhn22)](https://github.com/sumonhn22/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonhn22&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=sumonhn22&color=green)
  
