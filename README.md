@@ -3,6 +3,7 @@
  
  [![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/md-sumon-hossain-197152ba/)
  
+ 
  ## ⚡ Technologies
 
 <!--- just --->
@@ -20,7 +21,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bhimrazy&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimrazy&hide=TeX&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonhn22)](https://github.com/sumonhn22/github-readme-stats)
+
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=bhimrazy&color=green)
  
