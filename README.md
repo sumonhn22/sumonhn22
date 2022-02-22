@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+ I'm Md Sumon Hossain from Netherlands. As a mathematician, I love to learn new tech so that I can help other people.
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/md-sumon-hossain-197152ba/)
+ 
+ 
 <!--
 **sumonhn22/sumonhn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
