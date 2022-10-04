@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Md Sumon Hossain from Netherlands. As a mathematician, I would like to learn new tech so that I can help other people.
+ I'm Md Sumon Hossain from Netherlands. As a mathematician and Data Scientist, I would like to learn new tech and solve real world problem so that I can help other people.
  
  ## ⚡ Technologies
 
