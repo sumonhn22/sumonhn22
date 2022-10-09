@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Md Sumon Hossain from Netherlands. As a mathematician and Data Scientist, I would like to learn new tech and solve real world problem so that I can help other people.
+ I'm Sumon. As a mathematician and Data Scientist, I would like to solve real world problem so that I can help other people. I have a solid grasp of mathematics and statistics I have utilized my mathematical and statistical skills to model and solve real-world complex project. I am skilled in programming, data analytics, building and deploying machine learning models. I generate clear and actionable insights from data and communicate the role of my stakeholders.
  
  ## ⚡ Technologies
 
